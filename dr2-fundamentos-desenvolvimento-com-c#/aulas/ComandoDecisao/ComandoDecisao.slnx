@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Comando-if-else-if/Comando-if-else-if.csproj" />
+  <Project Path="Comando-if-else/Comando-if-else.csproj" />
+  <Project Path="Comando-if/Comando-if.csproj" />
+  <Project Path="Comando-switch/Comando-switch.csproj" />
+</Solution>

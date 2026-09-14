@@ -1,0 +1,15 @@
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\bin\Debug\net10.0\Exercicio06.exe
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\bin\Debug\net10.0\Exercicio06.deps.json
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\bin\Debug\net10.0\Exercicio06.runtimeconfig.json
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\bin\Debug\net10.0\Exercicio06.dll
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\bin\Debug\net10.0\Exercicio06.pdb
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\obj\Debug\net10.0\Exercicio06.GeneratedMSBuildEditorConfig.editorconfig
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\obj\Debug\net10.0\Exercicio06.AssemblyInfoInputs.cache
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\obj\Debug\net10.0\Exercicio06.AssemblyInfo.cs
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\obj\Debug\net10.0\Exercicio06.csproj.CoreCompileInputs.cache
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\obj\Debug\net10.0\Exercicio06.sourcelink.json
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\obj\Debug\net10.0\Exercicio06.dll
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\obj\Debug\net10.0\refint\Exercicio06.dll
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\obj\Debug\net10.0\Exercicio06.pdb
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\obj\Debug\net10.0\Exercicio06.genruntimeconfig.cache
+d:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\tp2\Exercicio06\obj\Debug\net10.0\ref\Exercicio06.dll

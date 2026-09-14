@@ -1,0 +1,14 @@
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\bin\Debug\net8.0\CalculadoraOO4.exe
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\bin\Debug\net8.0\CalculadoraOO4.deps.json
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\bin\Debug\net8.0\CalculadoraOO4.runtimeconfig.json
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\bin\Debug\net8.0\CalculadoraOO4.dll
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\bin\Debug\net8.0\CalculadoraOO4.pdb
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\obj\Debug\net8.0\CalculadoraOO4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\obj\Debug\net8.0\CalculadoraOO4.AssemblyInfoInputs.cache
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\obj\Debug\net8.0\CalculadoraOO4.AssemblyInfo.cs
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\obj\Debug\net8.0\CalculadoraOO4.csproj.CoreCompileInputs.cache
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\obj\Debug\net8.0\CalculadoraOO4.dll
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\obj\Debug\net8.0\refint\CalculadoraOO4.dll
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\obj\Debug\net8.0\CalculadoraOO4.pdb
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\obj\Debug\net8.0\CalculadoraOO4.genruntimeconfig.cache
+C:\Users\luiz.maia\Downloads\CalculadoraOO\Calculadora004\obj\Debug\net8.0\ref\CalculadoraOO4.dll

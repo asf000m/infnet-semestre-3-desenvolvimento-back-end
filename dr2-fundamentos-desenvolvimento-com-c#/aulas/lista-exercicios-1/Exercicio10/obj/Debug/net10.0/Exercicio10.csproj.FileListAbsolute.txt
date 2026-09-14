@@ -1,0 +1,15 @@
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\bin\Debug\net10.0\Exercicio10.exe
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\bin\Debug\net10.0\Exercicio10.deps.json
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\bin\Debug\net10.0\Exercicio10.runtimeconfig.json
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\bin\Debug\net10.0\Exercicio10.dll
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\bin\Debug\net10.0\Exercicio10.pdb
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\obj\Debug\net10.0\Exercicio10.GeneratedMSBuildEditorConfig.editorconfig
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\obj\Debug\net10.0\Exercicio10.AssemblyInfoInputs.cache
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\obj\Debug\net10.0\Exercicio10.AssemblyInfo.cs
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\obj\Debug\net10.0\Exercicio10.csproj.CoreCompileInputs.cache
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\obj\Debug\net10.0\Exercicio10.sourcelink.json
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\obj\Debug\net10.0\Exercicio10.dll
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\obj\Debug\net10.0\refint\Exercicio10.dll
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\obj\Debug\net10.0\Exercicio10.pdb
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\obj\Debug\net10.0\Exercicio10.genruntimeconfig.cache
+D:\infnet\3-desenvolvimento-back-end\2-fundamentos-desenvolvimento-com-c#\aulas\Exercicio10\obj\Debug\net10.0\ref\Exercicio10.dll

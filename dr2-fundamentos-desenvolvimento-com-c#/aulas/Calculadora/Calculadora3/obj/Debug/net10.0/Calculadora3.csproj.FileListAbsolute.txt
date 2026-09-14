@@ -1,0 +1,14 @@
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\bin\Debug\net10.0\Calculadora3.exe
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\bin\Debug\net10.0\Calculadora3.deps.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\bin\Debug\net10.0\Calculadora3.runtimeconfig.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\bin\Debug\net10.0\Calculadora3.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\bin\Debug\net10.0\Calculadora3.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\obj\Debug\net10.0\Calculadora3.GeneratedMSBuildEditorConfig.editorconfig
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\obj\Debug\net10.0\Calculadora3.AssemblyInfoInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\obj\Debug\net10.0\Calculadora3.AssemblyInfo.cs
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\obj\Debug\net10.0\Calculadora3.csproj.CoreCompileInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\obj\Debug\net10.0\Calculadora3.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\obj\Debug\net10.0\refint\Calculadora3.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\obj\Debug\net10.0\Calculadora3.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\obj\Debug\net10.0\Calculadora3.genruntimeconfig.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Calculadora\Calculadora3\obj\Debug\net10.0\ref\Calculadora3.dll

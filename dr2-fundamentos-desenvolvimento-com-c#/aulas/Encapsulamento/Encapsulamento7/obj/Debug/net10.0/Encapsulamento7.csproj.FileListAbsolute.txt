@@ -1,0 +1,14 @@
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\bin\Debug\net10.0\Encapsulamento7.exe
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\bin\Debug\net10.0\Encapsulamento7.deps.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\bin\Debug\net10.0\Encapsulamento7.runtimeconfig.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\bin\Debug\net10.0\Encapsulamento7.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\bin\Debug\net10.0\Encapsulamento7.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\obj\Debug\net10.0\Encapsulamento7.GeneratedMSBuildEditorConfig.editorconfig
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\obj\Debug\net10.0\Encapsulamento7.AssemblyInfoInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\obj\Debug\net10.0\Encapsulamento7.AssemblyInfo.cs
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\obj\Debug\net10.0\Encapsulamento7.csproj.CoreCompileInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\obj\Debug\net10.0\Encapsulamento7.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\obj\Debug\net10.0\refint\Encapsulamento7.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\obj\Debug\net10.0\Encapsulamento7.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\obj\Debug\net10.0\Encapsulamento7.genruntimeconfig.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Encapsulamento\Encapsulamento7\obj\Debug\net10.0\ref\Encapsulamento7.dll

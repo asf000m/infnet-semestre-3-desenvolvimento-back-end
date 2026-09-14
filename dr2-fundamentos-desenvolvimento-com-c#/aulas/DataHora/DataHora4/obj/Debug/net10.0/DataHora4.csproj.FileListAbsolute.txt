@@ -1,0 +1,14 @@
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\bin\Debug\net10.0\DataHora4.exe
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\bin\Debug\net10.0\DataHora4.deps.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\bin\Debug\net10.0\DataHora4.runtimeconfig.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\bin\Debug\net10.0\DataHora4.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\bin\Debug\net10.0\DataHora4.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\obj\Debug\net10.0\DataHora4.GeneratedMSBuildEditorConfig.editorconfig
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\obj\Debug\net10.0\DataHora4.AssemblyInfoInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\obj\Debug\net10.0\DataHora4.AssemblyInfo.cs
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\obj\Debug\net10.0\DataHora4.csproj.CoreCompileInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\obj\Debug\net10.0\DataHora4.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\obj\Debug\net10.0\refint\DataHora4.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\obj\Debug\net10.0\DataHora4.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\obj\Debug\net10.0\DataHora4.genruntimeconfig.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\aula\DataHora4\obj\Debug\net10.0\ref\DataHora4.dll

@@ -1,0 +1,14 @@
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\obj\Debug\net10.0\Construtor3.GeneratedMSBuildEditorConfig.editorconfig
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\obj\Debug\net10.0\Construtor3.AssemblyInfoInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\obj\Debug\net10.0\Construtor3.AssemblyInfo.cs
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\obj\Debug\net10.0\Construtor3.csproj.CoreCompileInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\bin\Debug\net10.0\Construtor3.exe
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\bin\Debug\net10.0\Construtor3.deps.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\bin\Debug\net10.0\Construtor3.runtimeconfig.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\bin\Debug\net10.0\Construtor3.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\bin\Debug\net10.0\Construtor3.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\obj\Debug\net10.0\Construtor3.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\obj\Debug\net10.0\refint\Construtor3.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\obj\Debug\net10.0\Construtor3.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\obj\Debug\net10.0\Construtor3.genruntimeconfig.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Construtores\Construtor3\obj\Debug\net10.0\ref\Construtor3.dll

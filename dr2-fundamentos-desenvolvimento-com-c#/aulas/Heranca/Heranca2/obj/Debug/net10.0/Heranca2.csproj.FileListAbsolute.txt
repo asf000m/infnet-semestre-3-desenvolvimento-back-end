@@ -1,0 +1,14 @@
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\obj\Debug\net10.0\Heranca2.GeneratedMSBuildEditorConfig.editorconfig
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\obj\Debug\net10.0\Heranca2.AssemblyInfoInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\obj\Debug\net10.0\Heranca2.AssemblyInfo.cs
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\obj\Debug\net10.0\Heranca2.csproj.CoreCompileInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\bin\Debug\net10.0\Heranca2.exe
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\bin\Debug\net10.0\Heranca2.deps.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\bin\Debug\net10.0\Heranca2.runtimeconfig.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\bin\Debug\net10.0\Heranca2.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\bin\Debug\net10.0\Heranca2.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\obj\Debug\net10.0\Heranca2.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\obj\Debug\net10.0\refint\Heranca2.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\obj\Debug\net10.0\Heranca2.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\obj\Debug\net10.0\Heranca2.genruntimeconfig.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\Heranca\Heranca2\obj\Debug\net10.0\ref\Heranca2.dll

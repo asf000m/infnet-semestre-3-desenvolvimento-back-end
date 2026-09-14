@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Heranca1/Heranca1.csproj" />
+  <Project Path="Heranca2/Heranca2.csproj" />
+  <Project Path="Heranca3/Heranca3.csproj" />
+</Solution>

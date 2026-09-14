@@ -1,0 +1,14 @@
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\bin\Debug\net10.0\Exercicio02.exe
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\bin\Debug\net10.0\Exercicio02.deps.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\bin\Debug\net10.0\Exercicio02.runtimeconfig.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\bin\Debug\net10.0\Exercicio02.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\bin\Debug\net10.0\Exercicio02.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\obj\Debug\net10.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\obj\Debug\net10.0\Exercicio02.AssemblyInfoInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\obj\Debug\net10.0\Exercicio02.AssemblyInfo.cs
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\obj\Debug\net10.0\Exercicio02.csproj.CoreCompileInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\obj\Debug\net10.0\Exercicio02.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\obj\Debug\net10.0\refint\Exercicio02.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\obj\Debug\net10.0\Exercicio02.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\obj\Debug\net10.0\Exercicio02.genruntimeconfig.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio02\obj\Debug\net10.0\ref\Exercicio02.dll

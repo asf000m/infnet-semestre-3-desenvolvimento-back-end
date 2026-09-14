@@ -1,0 +1,14 @@
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\bin\Debug\net8.0\CalculadoraOO3.exe
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\bin\Debug\net8.0\CalculadoraOO3.deps.json
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\bin\Debug\net8.0\CalculadoraOO3.runtimeconfig.json
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\bin\Debug\net8.0\CalculadoraOO3.dll
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\bin\Debug\net8.0\CalculadoraOO3.pdb
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\obj\Debug\net8.0\CalculadoraOO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\obj\Debug\net8.0\CalculadoraOO3.AssemblyInfoInputs.cache
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\obj\Debug\net8.0\CalculadoraOO3.AssemblyInfo.cs
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\obj\Debug\net8.0\CalculadoraOO3.csproj.CoreCompileInputs.cache
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\obj\Debug\net8.0\CalculadoraOO3.dll
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\obj\Debug\net8.0\refint\CalculadoraOO3.dll
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\obj\Debug\net8.0\CalculadoraOO3.pdb
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\obj\Debug\net8.0\CalculadoraOO3.genruntimeconfig.cache
+C:\Users\lpmaia\Documents\CalculadoraOO\CalculadoraOO3\obj\Debug\net8.0\ref\CalculadoraOO3.dll

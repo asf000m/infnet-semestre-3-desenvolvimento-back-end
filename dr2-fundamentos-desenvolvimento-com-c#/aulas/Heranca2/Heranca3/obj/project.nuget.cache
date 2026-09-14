@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cc/Jt182uTc=",
+  "success": true,
+  "projectFilePath": "D:\\infnet_\\semestre-3-desenvolvimento-back-end\\dr2-fundamentos-desenvolvimento-com-c#\\aulas\\Heranca2\\Heranca3\\Heranca3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asfm8\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\asfm8\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\asfm8\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\asfm8\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

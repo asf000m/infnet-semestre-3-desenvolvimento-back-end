@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Comando-if-else-if/1.0.0": {
+        "runtime": {
+          "Comando-if-else-if.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Comando-if-else-if/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

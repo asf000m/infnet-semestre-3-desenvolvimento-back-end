@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DataHora1/DataHora1.csproj" />
+  <Project Path="DataHora2/DataHora2.csproj" />
+  <Project Path="DataHora3/DataHora3.csproj" />
+  <Project Path="DataHora4/DataHora4.csproj" />
+</Solution>

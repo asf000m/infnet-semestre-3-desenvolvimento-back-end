@@ -1,0 +1,14 @@
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\bin\Debug\net10.0\Comando-if-else-if.exe
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\bin\Debug\net10.0\Comando-if-else-if.deps.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\bin\Debug\net10.0\Comando-if-else-if.runtimeconfig.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\bin\Debug\net10.0\Comando-if-else-if.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\bin\Debug\net10.0\Comando-if-else-if.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\obj\Debug\net10.0\Comando-if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\obj\Debug\net10.0\Comando-if-else-if.AssemblyInfoInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\obj\Debug\net10.0\Comando-if-else-if.AssemblyInfo.cs
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\obj\Debug\net10.0\Comando-if-else-if.csproj.CoreCompileInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\obj\Debug\net10.0\Comando-if-else-if.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\obj\Debug\net10.0\refint\Comando-if-else-if.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\obj\Debug\net10.0\Comando-if-else-if.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\obj\Debug\net10.0\Comando-if-else-if.genruntimeconfig.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\aulas\ComandoDecisao\Comando-if-else-if\obj\Debug\net10.0\ref\Comando-if-else-if.dll

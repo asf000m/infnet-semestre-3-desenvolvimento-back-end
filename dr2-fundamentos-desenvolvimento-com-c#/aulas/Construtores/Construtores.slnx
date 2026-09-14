@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Construtor1/Construtor1.csproj" />
+  <Project Path="Construtor2/Construtor2.csproj" />
+  <Project Path="Construtor3/Construtor3.csproj" />
+</Solution>

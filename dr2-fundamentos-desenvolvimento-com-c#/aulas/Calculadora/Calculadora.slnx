@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Calculadora1/Calculadora1.csproj" />
+  <Project Path="Calculadora2/Calculadora2.csproj" />
+  <Project Path="Calculadora3/Calculadora3.csproj" />
+  <Project Path="Calculadora4/Calculadora4.csproj" />
+  <Project Path="CalculadoraOO1/CalculadoraOO1.csproj" />
+  <Project Path="CalculadoraOO2/CalculadoraOO2.csproj" />
+</Solution>

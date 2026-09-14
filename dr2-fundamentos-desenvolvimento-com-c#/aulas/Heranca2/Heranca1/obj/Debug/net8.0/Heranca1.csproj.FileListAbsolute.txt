@@ -1,0 +1,14 @@
+C:\Users\lpmaia\Documents\Heranca\Heranca1\bin\Debug\net8.0\Heranca1.exe
+C:\Users\lpmaia\Documents\Heranca\Heranca1\bin\Debug\net8.0\Heranca1.deps.json
+C:\Users\lpmaia\Documents\Heranca\Heranca1\bin\Debug\net8.0\Heranca1.runtimeconfig.json
+C:\Users\lpmaia\Documents\Heranca\Heranca1\bin\Debug\net8.0\Heranca1.dll
+C:\Users\lpmaia\Documents\Heranca\Heranca1\bin\Debug\net8.0\Heranca1.pdb
+C:\Users\lpmaia\Documents\Heranca\Heranca1\obj\Debug\net8.0\Heranca1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpmaia\Documents\Heranca\Heranca1\obj\Debug\net8.0\Heranca1.AssemblyInfoInputs.cache
+C:\Users\lpmaia\Documents\Heranca\Heranca1\obj\Debug\net8.0\Heranca1.AssemblyInfo.cs
+C:\Users\lpmaia\Documents\Heranca\Heranca1\obj\Debug\net8.0\Heranca1.csproj.CoreCompileInputs.cache
+C:\Users\lpmaia\Documents\Heranca\Heranca1\obj\Debug\net8.0\Heranca1.dll
+C:\Users\lpmaia\Documents\Heranca\Heranca1\obj\Debug\net8.0\refint\Heranca1.dll
+C:\Users\lpmaia\Documents\Heranca\Heranca1\obj\Debug\net8.0\Heranca1.pdb
+C:\Users\lpmaia\Documents\Heranca\Heranca1\obj\Debug\net8.0\Heranca1.genruntimeconfig.cache
+C:\Users\lpmaia\Documents\Heranca\Heranca1\obj\Debug\net8.0\ref\Heranca1.dll
