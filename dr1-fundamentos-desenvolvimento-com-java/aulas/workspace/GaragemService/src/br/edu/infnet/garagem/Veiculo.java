@@ -1,6 +1,6 @@
 package br.edu.infnet.garagem;
 
-public class Veiculo {
+public abstract class Veiculo {
 
     private String placa;
     private String marca;
@@ -15,7 +15,13 @@ public class Veiculo {
     }
 
     // Methods
+    public abstract double calcularCustoManutencao();
+
     public void exibirResumo() {
         System.out.printf("%s - %s - %d", placa, marca, ano);
+    }
+
+    public final void exibirIdentificacao() {
+        System.out.println("Exibir ID!");
     }
 }

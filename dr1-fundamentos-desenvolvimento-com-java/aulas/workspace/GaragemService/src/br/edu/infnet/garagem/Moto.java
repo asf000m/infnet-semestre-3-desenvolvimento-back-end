@@ -12,6 +12,11 @@ public class Moto extends Veiculo {
 
     // Methods
     @Override 
+    public double calcularCustoManutencao() {
+        return cilindradas + 300;
+    }
+
+    @Override
     public void exibirResumo() {
         System.out.printf("Moto: ");
         super.exibirResumo();
