@@ -202,3 +202,79 @@ Peça ao usuário para cadastrar 3 compras com: produto, quantidade e preço uni
 
 1. Salve os dados em um arquivo compras.txt.
 2. Leia o arquivo e exiba as compras registradas.
+
+### Exercício 11 Simulação de Loteria
+
+Contexto: Você foi contratado para desenvolver um jogo de loteria simples.
+
+Enunciado:
+
+* Gere 6 números aleatórios entre 1 e 60.
+* Peça ao usuário para inserir 6 números.
+* Compare os números e informe quantos acertos ele teve.
+
+### Exercício 12 Sistema de Chat Simples com Arrays
+
+Contexto: Você está desenvolvendo um sistema simples de troca de mensagens que será utilizado em um terminal de linha de comando. Dois usuários poderão enviar mensagens alternadamente e visualizar as mensagens enviadas. O objetivo é permitir a comunicação entre os usuários de forma interativa, sem interface gráfica.
+
+Enunciado:
+
+Crie um programa em Java que permita que dois usuários troquem mensagens alternadamente através da linha de comando.
+
+Regras do Programa:
+
+* O programa deve iniciar solicitando os nomes dos dois usuários.
+* Cada usuário poderá enviar até 5 mensagens cada (total de 10 mensagens no sistema).
+* As mensagens devem ser armazenadas em um Array de Strings.
+* O envio das mensagens deve ser feito alternadamente, ou seja, um usuário envia, depois o outro.
+* Após as 5 mensagens de cada usuário, o programa deve exibir todas as mensagens trocadas e encerrar com uma mensagem de despedida.
+
+Fluxo esperado da execução:
+
+1) Solicitação dos nomes dos usuários:
+
+```console
+Digite o nome do primeiro usuário: Alice 
+Digite o nome do segundo usuário: Bob
+```
+
+2) Troca de mensagens alternada na linha de comando:
+
+```console
+Alice, digite sua mensagem: Olá Bob, como você está? 
+Bob, digite sua mensagem: Oi Alice! Estou bem, e você? 
+Alice, digite sua mensagem: Estou ótima, obrigada por perguntar.
+Bob, digite sua mensagem: Que bom! O que tem feito ultimamente?
+... (continua até 5 mensagens por usuário)
+```
+
+3) Exibição do histórico de mensagens:
+
+```console
+===== Histórico de Mensagens =====
+Alice: Olá Bob, como você está? 
+Bob: Oi Alice! Estou bem, e você? 
+Alice: Estou ótima, obrigada por perguntar. 
+Bob: Que bom! O que tem feito ultimamente? 
+…
+```
+
+4) Mensagem final antes de encerrar o programa:
+
+```console
+Obrigado por utilizarem o sistema! Boa sorte para vocês! 🚀
+```
+
+Considerações:
+
+* O programa solicita os nomes dos usuários corretamente.
+* As mensagens são armazenadas e exibidas corretamente.
+* O programa alterna corretamente entre os usuários a cada mensagem.
+* O programa finaliza após 10 mensagens trocadas, exibindo o histórico e a mensagem de despedida.
+
+Dicas para Implementação:
+
+* Utilize um array de Strings de tamanho 10 para armazenar as mensagens.
+* Use um loop para alternar os envios entre os usuários.
+* Utilize a classe Scanner para capturar as mensagens digitadas.
+* Certifique-se de exibir corretamente as mensagens ao final da execução.
