@@ -1,0 +1,14 @@
+COMPRAS CADASTRADAS
+
+Produto: p1
+Quantidade: 10
+Preço unitário: 1.0
+
+Produto: p2
+Quantidade: 20
+Preço unitário: 2.0
+
+Produto: p3
+Quantidade: 30
+Preço unitário: 3.0
+

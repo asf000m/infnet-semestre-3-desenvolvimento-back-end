@@ -167,3 +167,38 @@ Crie a classe Funcionario com: nome, salário base e crie duas subclasses:
 
 No main(), crie um gerente e um estagiário, e exiba os salários finais.
 
+### Exercício 9 Conta Bancária com Encapsulamento
+
+Contexto: Um banco quer proteger os dados das contas dos clientes.
+
+Enunciado:
+
+Crie a classe ContaBancaria com:
+
+* titular (String)
+* saldo (double, privado)
+
+Métodos:
+
+* depositar(double valor)
+* sacar(double valor) (somente se houver saldo suficiente)
+* exibirSaldo() 
+
+Teste no main() criando uma conta e realizando operações.
+
+---
+
+## Parte 5 - Manipulação de Arquivos e Estruturas Avançadas
+
+---
+
+### Exercício 10 Registro de Compras em Arquivo
+
+Contexto: Uma loja quer armazenar registros de compras.
+
+Enunciado:
+
+Peça ao usuário para cadastrar 3 compras com: produto, quantidade e preço unitário.
+
+1. Salve os dados em um arquivo compras.txt.
+2. Leia o arquivo e exiba as compras registradas.
