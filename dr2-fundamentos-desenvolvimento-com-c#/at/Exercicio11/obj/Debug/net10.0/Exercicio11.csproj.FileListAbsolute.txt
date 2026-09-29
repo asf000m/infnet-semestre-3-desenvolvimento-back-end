@@ -1,0 +1,15 @@
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\bin\Debug\net10.0\Exercicio11.exe
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\bin\Debug\net10.0\Exercicio11.deps.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\bin\Debug\net10.0\Exercicio11.runtimeconfig.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\bin\Debug\net10.0\Exercicio11.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\bin\Debug\net10.0\Exercicio11.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\obj\Debug\net10.0\Exercicio11.GeneratedMSBuildEditorConfig.editorconfig
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\obj\Debug\net10.0\Exercicio11.AssemblyInfoInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\obj\Debug\net10.0\Exercicio11.AssemblyInfo.cs
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\obj\Debug\net10.0\Exercicio11.csproj.CoreCompileInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\obj\Debug\net10.0\Exercicio11.sourcelink.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\obj\Debug\net10.0\Exercicio11.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\obj\Debug\net10.0\refint\Exercicio11.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\obj\Debug\net10.0\Exercicio11.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\obj\Debug\net10.0\Exercicio11.genruntimeconfig.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio11\obj\Debug\net10.0\ref\Exercicio11.dll

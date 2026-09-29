@@ -1,0 +1,15 @@
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\bin\Debug\net10.0\Exercicio09B.exe
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\bin\Debug\net10.0\Exercicio09B.deps.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\bin\Debug\net10.0\Exercicio09B.runtimeconfig.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\bin\Debug\net10.0\Exercicio09B.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\bin\Debug\net10.0\Exercicio09B.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\obj\Debug\net10.0\Exercicio09B.GeneratedMSBuildEditorConfig.editorconfig
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\obj\Debug\net10.0\Exercicio09B.AssemblyInfoInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\obj\Debug\net10.0\Exercicio09B.AssemblyInfo.cs
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\obj\Debug\net10.0\Exercicio09B.csproj.CoreCompileInputs.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\obj\Debug\net10.0\Exercicio09B.sourcelink.json
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\obj\Debug\net10.0\Exercicio09B.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\obj\Debug\net10.0\refint\Exercicio09B.dll
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\obj\Debug\net10.0\Exercicio09B.pdb
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\obj\Debug\net10.0\Exercicio09B.genruntimeconfig.cache
+D:\infnet_\semestre-3-desenvolvimento-back-end\dr2-fundamentos-desenvolvimento-com-c#\at\Exercicio09B\obj\Debug\net10.0\ref\Exercicio09B.dll

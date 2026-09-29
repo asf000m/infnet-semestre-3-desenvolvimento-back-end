@@ -4,4 +4,13 @@
   <Project Path="Exercicio03/Exercicio03.csproj" />
   <Project Path="Exercicio04/Exercicio04.csproj" />
   <Project Path="Exercicio04_2/Exercicio04_2.csproj" />
+  <Project Path="Exercicio05/Exercicio05.csproj" />
+  <Project Path="Exercicio06/Exercicio06.csproj" />
+  <Project Path="Exercicio07/Exercicio07.csproj" />
+  <Project Path="Exercicio08/Exercicio08.csproj" />
+  <Project Path="Exercicio09/Exercicio09.csproj" />
+  <Project Path="Exercicio09B/Exercicio09B.csproj" />
+  <Project Path="Exercicio10/Exercicio10.csproj" />
+  <Project Path="Exercicio11/Exercicio11.csproj" />
+  <Project Path="Exercicio12/Exercicio12.csproj" />
 </Solution>
